@@ -36,3 +36,7 @@ docs: README'ye Upcoming Features bölümü eklendi
 - Add multi-wallet support
 - Add transaction history
 - Add error handling for RPC failures
+
+## 🛠 Development Branch Updates
+
+- This section was added from the development branch.
