@@ -32,3 +32,11 @@ Bu komut cüzdanın hem Ethereum hem Base ağındaki bakiyesini gösterir.
 - 💸 Gas ücret hesaplama & Base Bridge önerisi
 - 🤝 Topluluk katkılarına açık (Pull Request bekleniyor!)
 docs: README'ye Upcoming Features bölümü eklendi
+## 📌 Improvements Planned
+- Add multi-wallet support
+- Add transaction history
+- Add error handling for RPC failures
+
+## 🛠 Development Branch Updates
+
+- This section was added from the development branch.
