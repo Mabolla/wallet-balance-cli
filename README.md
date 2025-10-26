@@ -25,3 +25,10 @@ python main.py <wallet_adresi>
 python main.py 0x94705a9d675daa924f9190eca4c05ed6b12d5345
 
 Bu komut cüzdanın hem Ethereum hem Base ağındaki bakiyesini gösterir.
+## ✅ Upcoming Features
+
+- 🚀 Token balance sorgulama (ETH, ERC20, USDC, USDT vb.)
+- 🔁 Base ve Ethereum ağında işlem geçmişi görüntüleme
+- 💸 Gas ücret hesaplama & Base Bridge önerisi
+- 🤝 Topluluk katkılarına açık (Pull Request bekleniyor!)
+docs: README'ye Upcoming Features bölümü eklendi
