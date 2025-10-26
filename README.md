@@ -14,3 +14,14 @@ git clone https://github.com/Mabolla/wallet-balance-cli.git
 cd wallet-balance-cli
 # wallet-balance-cli
 Simple Python CLI tool to check ETH &amp; Base network wallet balance
+## ▶ Usage
+
+Terminalden aşağıdaki gibi çalıştırabilirsiniz:
+
+python main.py <wallet_adresi>
+
+Örnek:
+
+python main.py 0x94705a9d675daa924f9190eca4c05ed6b12d5345
+
+Bu komut cüzdanın hem Ethereum hem Base ağındaki bakiyesini gösterir.
