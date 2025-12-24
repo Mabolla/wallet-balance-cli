@@ -33,3 +33,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# This function retrieves wallet balance from Ethereum or Base network

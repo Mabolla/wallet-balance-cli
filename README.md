@@ -32,3 +32,27 @@ Bu komut cüzdanın hem Ethereum hem Base ağındaki bakiyesini gösterir.
 - 💸 Gas ücret hesaplama & Base Bridge önerisi
 - 🤝 Topluluk katkılarına açık (Pull Request bekleniyor!)
 docs: README'ye Upcoming Features bölümü eklendi
+## 📌 Improvements Planned
+- Add multi-wallet support
+- Add transaction history
+- Add error handling for RPC failures
+---
+
+💡 **Developed & Improved by:**  
+[Okansylemez10](https://github.com/Okansylemez10)
+---
+
+### 📊 Repository Stats
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Okansylemez10/wallet-balance-cli)
+![GitHub forks](https://img.shields.io/github/forks/Okansylemez10/wallet-balance-cli)
+![GitHub issues](https://img.shields.io/github/issues/Okansylemez10/wallet-balance-cli)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Okansylemez10/wallet-balance-cli)
+
+---
+
+### 👤 Developer Stats
+
+![Okansylemez10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okansylemez10&show_icons=true&theme=default)
+
+
